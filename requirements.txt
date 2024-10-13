@@ -9,3 +9,5 @@ pandas
 langchain_text_splitters
 langchain_community
 streamlit==1.39.0
+faiss-gpu
+faiss-cpu
