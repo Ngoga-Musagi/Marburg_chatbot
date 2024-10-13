@@ -6,3 +6,5 @@ pandas
 langchain
 langchain-community
 langchain-text-splitter
+openai
+
