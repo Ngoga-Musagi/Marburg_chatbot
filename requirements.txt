@@ -1,11 +1,11 @@
-langchain_core
-pandas
-langchain_text_splitters
-langchain_community
-io
 PyPDF2
 tabula
 streamlit
 langchain
 requests
 langchain_openai
+langchain_core
+pandas
+langchain_text_splitters
+langchain_community
+streamlit==1.39.0
