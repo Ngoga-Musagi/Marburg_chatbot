@@ -1,5 +1,6 @@
 PyPDF2
 tabula
+tabula-py
 streamlit
 langchain
 requests
