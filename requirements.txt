@@ -4,3 +4,5 @@ requests
 tabula-py
 pandas
 langchain
+langchain-community
+langchain-text-splitter
